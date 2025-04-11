@@ -26,7 +26,7 @@ Built with:
 
 ---
 
-## 🚀 How It Works
+## 🚀 How It Works (Main Code : final_agent_qdrant_memory.py)
 
 1. Upload a CSV with columns: `text`, `person_id`, `role` (e.g., "assistant")
 2. These facts get stored in Qdrant and tagged as `type=info`
