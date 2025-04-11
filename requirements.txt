@@ -1,0 +1,7 @@
+qdrant-client 
+sentence-transformers
+#pip install -U transformers
+#pip install "tokenizers>=0.21,<0.22" --upgrade
+#pip install -U langchain-ollama
+#pip install --upgrade qdrant-client
+#pip install sentence-transformers qdrant-client langchain-ollama
